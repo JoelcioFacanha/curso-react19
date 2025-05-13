@@ -9,15 +9,23 @@
 
 ## Criar o projeto com React e Next.js o ponto "." indica que deve ser criado no próprio diretório.
 
-## npx create-next-app@latest
+---
+
+npx create-next-app@latest
 
 ## Executar o projeto React.
 
-## npm run dev
+---
+
+npm run dev
 
 ## Acessar no navegador use a URL:
 
-## http://localhost:3000/
+---
+
+http://localhost:3000/
+
+## Como enviar o projeto para o Github
 
 ## Implantar no Vercel
 
